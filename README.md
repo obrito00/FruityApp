@@ -55,34 +55,34 @@ Sasank's Fruity App is a creative forum where users can design and describe thei
 ## **Screenshots Overview 🖼**
 
 ### **Home Page**
-![Home Page](static/images/readme-imgs/homepage.JPG)
+![Home Page](static/images/readme-imgs/homepage.jpg)
 
 ### **Posts Page**
-![Posts Page](static/images/readme-imgs/postspage.PNG)
+![Posts Page](static/images/readme-imgs/postspage.png)
 
 ### **Create Posts Page**
-![Create Posts Page](static/images/readme-imgs/createpost.PNG)
+![Create Posts Page](static/images/readme-imgs/createpost.png)
 
 ### **Post View Page**
-![Post View Page 1](static/images/readme-imgs/postview.PNG)
+![Post View Page 1](static/images/readme-imgs/postview.png)
 
 ### **Post View Page 2**
-![Post View Page 2](static/images/readme-imgs/postview1.PNG)
+![Post View Page 2](static/images/readme-imgs/postview1.png)
 
 ### **Profile Page**
-![Profile Page](static/images/readme-imgs/profilepage.PNG)
+![Profile Page](static/images/readme-imgs/profilepage.png)
 
 ### **Search Page**
-![Search Page](static/images/readme-imgs/search1.PNG)
+![Search Page](static/images/readme-imgs/search1.png)
 
 ### **Search Results Page**
-![Search Results Page](static/images/readme-imgs/search2.PNG)
+![Search Results Page](static/images/readme-imgs/search2.png)
 
 ### **About Page**
-![About Page](static/images/readme-imgs/aboutuspage.JPG)
+![About Page](static/images/readme-imgs/aboutuspage.jpg)
 
 ### **About Page Cont**
-![About Page Cont](static/images/readme-imgs/aboutuspagecont.JPG)
+![About Page Cont](static/images/readme-imgs/aboutuspagecont.jpg)
 
 ---
 
